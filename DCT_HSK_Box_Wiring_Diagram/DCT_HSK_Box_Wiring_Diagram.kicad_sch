@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid dbc24994-7559-4257-96ef-32b27aabf4f9)
+
+  (paper "E")
+
+  (title_block
+    (title "Wiring Diagram for DCT Housekeeping Box")
+    (date "2023-09-12")
+    (rev "A")
+    (comment 1 "This version uses potetiometer board and MG version heater board")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
